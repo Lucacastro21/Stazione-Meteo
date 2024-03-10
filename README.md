@@ -1,4 +1,4 @@
-#Stazione-Meteo con ESPHOME
+# Stazione-Meteo con ESPHOME
 
 	sensore temperatura e umitidà (DHT22)
 	https://a.aliexpress.com/_EziazT7
